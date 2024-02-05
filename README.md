@@ -1,6 +1,7 @@
 # Crime Statistics Analysis - Turkey
 
 ## Project Overview
+This project was carried out as a group for CS210 Introduction to Data Science Course.
 
 This project explores the relationship between education level, age group, and crime rates in Turkey, using data from 2013 to 2020 provided by the Türkiye İstatistik Kurumu (TÜİK). Our analysis includes data preprocessing, exploratory data analysis (EDA), hypothesis testing, and machine learning.
 
